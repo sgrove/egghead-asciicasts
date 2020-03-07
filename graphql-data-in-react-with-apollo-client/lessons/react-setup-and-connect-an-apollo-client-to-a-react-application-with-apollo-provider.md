@@ -1,4 +1,4 @@
-You can see a React app initially created using `create-react-app`.
+You can always see a _full_ React app initially created using `create-react-app`.
 
 #### app.js
 ```js
