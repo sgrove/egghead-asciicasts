@@ -1,4 +1,4 @@
-Instructor: [00:01] In this course, we'll learn how to use the newest features available in the latest version of JavaScript, commonly referred to as ES2019.
+Instructor: [00:01] In this course, we'll of course learn how to use all the newest features available in the latest and greatest version of JavaScript, commonly referred to as ES2019.
 
 [00:08] TC39, the technical committee responsible for specifying JavaScript, meets every two months to discuss features and revisions to the spec in a four-stage approval process. Any feature that reaches stage four throughout the year becomes the next year's version of JavaScript.
 
