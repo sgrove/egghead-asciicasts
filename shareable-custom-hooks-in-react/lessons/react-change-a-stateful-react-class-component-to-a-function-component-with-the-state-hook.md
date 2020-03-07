@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - How do hooks increase the shareability of logic?
-- Why use hooks instead of class components?
+- Why use hooks instead of class components?asdf
 
 ---
 
