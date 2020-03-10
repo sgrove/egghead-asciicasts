@@ -87,6 +87,8 @@ client
 
 As you can see, once we loaded the page, the query was executed and our result logged in the console. So far, so good.
 
+## Title - this is new!
+
 ![image of the browswer showing the output](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1543362545/transcript-images/react-setup-and-connect-an-apollo-client-to-a-react-application-with-apollo-provider-result.png)
 
 Since we have `ReactApollo` available, let's look into how we can set it up. We `import { ApolloProvider } from "react-apollo"` and use it inside our render function.
