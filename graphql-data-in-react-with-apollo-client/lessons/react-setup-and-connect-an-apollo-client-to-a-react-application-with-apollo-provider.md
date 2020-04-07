@@ -1,4 +1,4 @@
-You can see a React app initially created using `create-react-app`.
+This is from relay!  You can see a React app initially created using `create-react-app`.
 
 #### app.js
 ```js
