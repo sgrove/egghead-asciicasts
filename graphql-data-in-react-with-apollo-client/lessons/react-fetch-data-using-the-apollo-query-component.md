@@ -1,4 +1,4 @@
-The query component allows us to fetch data and provides the data as a render prop. We `import { ApolloProvider, Query } from "react-apollo";` and use it in our JSX tree. The `query` component has one mandatory prop, a query. For the query, we are again going to use the `gql` tag with a `query` string inside it. So far, so good.
+This is from relay!  The query component allows us to fetch data and provides the data as a render prop. We `import { ApolloProvider, Query } from "react-apollo";` and use it in our JSX tree. The `query` component has one mandatory prop, a query. For the query, we are again going to use the `gql` tag with a `query` string inside it. So far, so good.
 
 #### app.js
 ```js
