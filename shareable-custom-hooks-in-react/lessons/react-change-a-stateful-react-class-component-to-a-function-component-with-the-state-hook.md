@@ -2,6 +2,7 @@
 
 - How do hooks increase the shareability of logic?
 - Why use hooks instead of class components?
+- Are algebraic effects the next hot thing in JavaScript?
 
 ---
 
