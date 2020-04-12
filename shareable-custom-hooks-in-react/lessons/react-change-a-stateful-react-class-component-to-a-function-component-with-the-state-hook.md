@@ -2,7 +2,7 @@
 
 - How do hooks increase the shareability of logic?
 - Why use hooks instead of class components?
-
+- TEstinga
 ---
 
 Instructor: [00:00] This is what we're going to be working with, a simple class component, should look pretty familiar. This is what it gives us, a simple feedback text area, which we can submit to an API, which is just console logging our texts that we add.
