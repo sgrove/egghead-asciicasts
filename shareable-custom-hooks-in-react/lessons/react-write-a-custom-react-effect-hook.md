@@ -5,6 +5,8 @@
 
 ---
 
+Testing live update
+
 Instructor: [00:00] Starting where we left off in feedback.custom.js in the previous video, we're going to write our custom effect hook in this here file. First thing we're going to do is declare a function called useStarWarsQuote. Then inside of there, we're going to actually just copy this effect, all of it, and we'll refactor it.
 
 [00:22] We'll paste that in, and there's a few things we need to do. First thing we're going to do is **keep track of our quote in a piece of state.** We're going to declare a const and we're going to call it quote and set quote Eagles useState, and we're going to pass in an empty string to initialize it.
